@@ -1,81 +1,81 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": "table-51564.27624763",
-      "geometry": null,
-      "properties": {
-        "id": 27624763,
-        "tte_id": 3929611,
-        "title_no": "1054782",
-        "land_district": "North Auckland",
-        "status": "Registered",
-        "estate_share": "1/1",
-        "owner_type": "Individual",
-        "prime_surname": "Mason",
-        "prime_other_names": "Cxxxxxx Jxxxxxx",
-        "corporate_name": null,
-        "name_suffix": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "table-51564.27624760",
-      "geometry": null,
-      "properties": {
-        "id": 27624760,
-        "tte_id": 3929548,
-        "title_no": "1054782",
-        "land_district": "North Auckland",
-        "status": "Registered",
-        "estate_share": "1/1",
-        "owner_type": "Individual",
-        "prime_surname": "Jones",
-        "prime_other_names": "Oxxxxxx Hxxxxxxx",
-        "corporate_name": null,
-        "name_suffix": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "table-51564.27624761",
-      "geometry": null,
-      "properties": {
-        "id": 27624761,
-        "tte_id": 3929548,
-        "title_no": "1054782",
-        "land_district": "North Auckland",
-        "status": "Registered",
-        "estate_share": "1/1",
-        "owner_type": "Individual",
-        "prime_surname": "Mason",
-        "prime_other_names": "Cxxxxxx Jxxxxxx",
-        "corporate_name": null,
-        "name_suffix": null
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "table-51564.27624762",
-      "geometry": null,
-      "properties": {
-        "id": 27624762,
-        "tte_id": 3929611,
-        "title_no": "1054782",
-        "land_district": "North Auckland",
-        "status": "Registered",
-        "estate_share": "1/1",
-        "owner_type": "Individual",
-        "prime_surname": "Jones",
-        "prime_other_names": "Oxxxxxx Hxxxxxxx",
-        "corporate_name": null,
-        "name_suffix": null
-      }
-    }
-  ],
-  "totalFeatures": "unknown",
-  "numberReturned": 4,
-  "timeStamp": "2024-11-18T20:05:54.865Z",
-  "crs": null
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "table-51564.27624763",
+            "geometry": null,
+            "properties": {
+                "id": 27624763,
+                "tte_id": 3929611,
+                "title_no": "1054782",
+                "land_district": "North Auckland",
+                "status": "Registered",
+                "estate_share": "1/1",
+                "owner_type": "Individual",
+                "prime_surname": "Christian",
+                "prime_other_names": "Christian Pelayo",
+                "corporate_name": null,
+                "name_suffix": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "table-51564.27624760",
+            "geometry": null,
+            "properties": {
+                "id": 27624760,
+                "tte_id": 3929548,
+                "title_no": "1054782",
+                "land_district": "North Auckland",
+                "status": "Registered",
+                "estate_share": "1/1",
+                "owner_type": "Individual",
+                "prime_surname": "Anil",
+                "prime_other_names": "Anil Nair",
+                "corporate_name": null,
+                "name_suffix": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "table-51564.27624761",
+            "geometry": null,
+            "properties": {
+                "id": 27624761,
+                "tte_id": 3929548,
+                "title_no": "1054782",
+                "land_district": "North Auckland",
+                "status": "Registered",
+                "estate_share": "1/1",
+                "owner_type": "Individual",
+                "prime_surname": "Christian",
+                "prime_other_names": "Christian Pelayo",
+                "corporate_name": null,
+                "name_suffix": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "table-51564.27624762",
+            "geometry": null,
+            "properties": {
+                "id": 27624762,
+                "tte_id": 3929611,
+                "title_no": "1054782",
+                "land_district": "North Auckland",
+                "status": "Registered",
+                "estate_share": "1/1",
+                "owner_type": "Individual",
+                "prime_surname": "Anil",
+                "prime_other_names": "Anil Nair",
+                "corporate_name": null,
+                "name_suffix": null
+            }
+        }
+    ],
+    "totalFeatures": "unknown",
+    "numberReturned": 4,
+    "timeStamp": "2024-11-18T20:05:54.865Z",
+    "crs": null
 }
