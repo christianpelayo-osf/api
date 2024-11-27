@@ -144,6 +144,24 @@
         "corporate_name": null,
         "name_suffix": null
       }
+    },
+    {
+      "type": "Feature",
+      "id": "table-51564.27624760",
+      "geometry": null,
+      "properties": {
+        "id": 27624760,
+        "tte_id": 3929548,
+        "title_no": "1054782",
+        "land_district": "North Auckland",
+        "status": "Registered",
+        "estate_share": "1/1",
+        "owner_type": "Individual",
+        "prime_surname": "Joseph",
+        "prime_other_names": "Padilla",
+        "corporate_name": null,
+        "name_suffix": null
+      }
     }
   ],
   "totalFeatures": "unknown",
